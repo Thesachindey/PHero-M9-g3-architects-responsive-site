@@ -1,4 +1,6 @@
 # G3 Architects Responsive Site
+## for main code :
+`https://github.com/Thesachindey/Programming-Hero-B12/tree/main/M9-g3-architects-resources`
 
 A modern, responsive website for G3 Architects, designed to showcase architectural services, team, and sponsors. This project demonstrates best practices in HTML and CSS for building visually appealing and mobile-friendly web pages.
 
@@ -73,3 +75,4 @@ M9-g3-architects-responsive-site/
 ---
 
 # Programming Hero B12 M9 Project
+
